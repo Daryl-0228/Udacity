@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Saya Shibano</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="leg_cat">Leg cat</string>
+    <string name="bio">Hi, my name is Saya.
+    \n\nI love cat.
+    \n\nMy hobbies are listening to music, shopping, and collecting cosmetics!
+    \n\nMy recent passions are collecting coffee beans and playing with my cat.
+    \n\nMy cat\'s name is Daryl, he\'s a boy, and he\'s almost two years old.
+    \nHe\'s very curious, rambunctious, and spoiled!
+    \nHe is too energetic to take care of, but he heals me every day! :)
+    \n\nBut the problem is that I\'m often away from home for work. Maybe He\'s feeling lonely...
+    \nI hope to welcome a new family soon so that he can enjoy his life more.
+    \n\nI hope to make many more memories with him in the future ! :)
+    \n</string>
+    <string name="what_is_your_nickname">What is Your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
